@@ -1,0 +1,9 @@
+profile_id	Full_Name	phone	email_id	city	house_id	rent	Move_In_Date	Move_Out_Date	latest_employer	occupational_category	profile_id	Total_count
+2	Ashish Singh	9.87689e+009	ashish.singh@gmail.com	Bangalore	2	11000	2015-06-05 00:00:00.000	NULL	hindustan unilever	Working	2	2
+3	Bhaskar maheshwari	9.80183e+009	bhaskar.mah@gmail.com	Bangalore	4	12000	2015-10-28 00:00:00.000	2016-11-28	Technicolor	Working	3	1
+5	Tanvi mann	9.17835e+009	tanvi.mann1907@gmail.com	Bangalore	3	9000	2015-05-15 00:00:00.000	2015-12-27	GE Healthcare	Working	5	3
+6	Harish sahai	9.87655e+009	harish294all@gmail.com	Bangalore	8	10200	2015-12-25 00:00:00.000	NULL	Aditya birla	Working	6	1
+9	Shivshankar das	9.80183e+009	sankar.shiva730@gmail.com	Pune	9	7500	2015-10-15 00:00:00.000	NULL	NULL	Student	9	1
+10	Aditi jain	9.87312e+009	aditi.jain@sproxil.com	Pune	10	7500	2015-06-20 00:00:00.000	NULL	huawei Technologies	Working	10	1
+12	Umang parejiya	7.89654e+009	uparejiya@gmail.com	Pune	15	11000	2015-02-24 00:00:00.000	NULL	Centurylink India	Working	12	1
+13	Mitali gupta	8.79675e+009	mitali.gupta80@gmail.com	Pune	12	12000	2015-02-25 00:00:00.000	NULL	SAP Labs India	Working	13	2
